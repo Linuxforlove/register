@@ -1,0 +1,12 @@
+{
+    "description": "Linux For Love's website",
+    "repo": "https://github.com/Linuxforlove/linuxforlove.github.io",
+    "owner": {
+      "username": "linuxforlove",
+      "email": "dev.ef01e@newage.aleeas.com"
+       "twitter": "@linuxlovep"
+    },
+    "record": {
+       "CNAME": "linuxforlove.github.io"
+    }
+  }
